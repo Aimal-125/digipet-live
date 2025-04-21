@@ -1,0 +1,1 @@
+const m=s=>{var a,t,n,o,g;return((t=(a=s==null?void 0:s.response)==null?void 0:a.data)==null?void 0:t.message)||((g=(o=(n=s==null?void 0:s.response)==null?void 0:n.data)==null?void 0:o.data)==null?void 0:g.message)||(s==null?void 0:s.message)||"Something went wrong."};export{m as r};
