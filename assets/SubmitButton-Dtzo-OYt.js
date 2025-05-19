@@ -1,0 +1,1 @@
+import{j as t}from"./index-BGHtLGIu.js";function n({formik:r,label:i="Submit"}){return t.jsx(t.Fragment,{children:t.jsx("div",{children:t.jsx("button",{type:"submit",className:`${r.isSubmitting?"cursor-not-allowed":"cursor-pointer"} bg-[#4C63BD] text-white px-4 py-2 rounded-[6px]`,children:i})})})}export{n as S};

@@ -1,0 +1,1 @@
+const i="/digipet-live/images/dashboard/patients-icon.svg",o="/digipet-live/images/dashboard/doctors-icon.svg",s="/digipet-live/images/dashboard/appointments-icon.svg",a="/digipet-live/images/dashboard/admin-profit-icon.svg";export{s as A,o as D,i as P,a};
