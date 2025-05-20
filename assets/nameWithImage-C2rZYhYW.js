@@ -1,0 +1,1 @@
+import{j as s,x as n}from"./index-BlNJeTnI.js";const a=(e,i)=>s.jsxs("span",{style:{display:"inline-flex",alignItems:"center",gap:"10px"},children:[s.jsx("span",{children:s.jsx("img",{src:e||n,alt:i,style:{width:"50px",height:"50px",display:"inline-block",borderRadius:"6px"}})}),s.jsx("span",{children:i})]});export{a as n};
