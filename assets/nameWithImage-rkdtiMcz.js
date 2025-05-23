@@ -1,0 +1,1 @@
+import{j as e,x as n}from"./index-Bpiqhjgz.js";const l="/digipet-live/images/delete-icon.svg",a=(i,s)=>e.jsxs("span",{style:{display:"inline-flex",alignItems:"center",gap:"10px"},children:[e.jsx("span",{children:e.jsx("img",{src:i||n,alt:s,style:{width:"50px",height:"50px",display:"inline-block",borderRadius:"6px"}})}),e.jsx("span",{children:s})]});export{l as D,a as n};
