@@ -1,0 +1,1 @@
+import{u as e,j as n}from"./index-D9Thu0Lz.js";import{I as r}from"./index-amKFu-wi.js";function i(){const s=e();return n.jsx(n.Fragment,{children:n.jsx("div",{children:n.jsxs("button",{type:"button",className:"inline-flex items-center gap-1 cursor-pointer",onClick:()=>{s(-1)},children:[n.jsx("span",{children:n.jsx(r,{})}),n.jsx("span",{children:"Back"})]})})})}export{i as B};
