@@ -1,0 +1,1 @@
+import{j as r}from"./index-DUYjTDLa.js";import{H as t}from"./HeadingPlusBackBtn-FVXhAHzt.js";import"./BackButton-HT3sDUP7.js";import"./index-RjsA-lLy.js";function s(){return r.jsx(r.Fragment,{children:r.jsx("div",{className:"flex flex-col gap-5",children:r.jsx("div",{className:"",children:r.jsx(t,{label:"Edit Doctor"})})})})}export{s as default};

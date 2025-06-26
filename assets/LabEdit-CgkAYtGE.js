@@ -1,0 +1,1 @@
+import{j as a}from"./index-DUYjTDLa.js";import{H as e}from"./HeadingPlusBackBtn-FVXhAHzt.js";import"./BackButton-HT3sDUP7.js";import"./index-RjsA-lLy.js";function l(){return a.jsx(a.Fragment,{children:a.jsx("div",{className:"flex flex-col gap-5",children:a.jsx("div",{className:"",children:a.jsx(e,{label:"Edit Lab"})})})})}export{l as default};
