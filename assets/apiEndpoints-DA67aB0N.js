@@ -1,0 +1,1 @@
+const s="/appointment",t="/booked-lab-test",o="/pet",A="/speciality",a="/offered-lab-test",P="/doctor",_="/lab",n="/settings",I="/pet-parent",c="/order",e="/user";export{s as A,t as B,P as D,_ as L,c as O,I as P,A as S,e as U,o as a,a as b,n as c};
